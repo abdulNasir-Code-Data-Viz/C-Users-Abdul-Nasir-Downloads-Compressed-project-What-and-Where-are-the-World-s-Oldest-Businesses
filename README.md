@@ -5,12 +5,20 @@ we will first need to use joining techniques to merge our data. From there, we c
 
 To answer the question, What and Where are the Worlds OldestBusinesses?, the following tasks were undertaken
    
-   1. The oldest business in the world
+    1. The oldest business in the world
+    
     2. How many businesses were founded before 1000?
+    
     3. Which businesses were founded before 1000?
+    
     4. Exploring the categories
+    
     5. Counting the categories
+    
     6. Oldest business by continent
+    
     7. Joining everything for further analysis
+    
     8. Counting categories by continent
+    
     9. Filtering counts by continent and category
